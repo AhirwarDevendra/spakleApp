@@ -85,20 +85,6 @@ angular.module('Sparkle.controllers', [])
 	$scope.showModal('templates/video-popover.html');
 }
     
-    $ionicPlatform.registerBackButtonAction(function() {
-//var path = $location.path()
-  if ($location.path() === "/home" || $location.path() === "home") {
-    navigator.app.exitApp();
-      //console.log("on exit");
-  }
-  else {
-    $ionicHistory.goBack();
-    //navigator.app.goBack();
-      
-      //console.log("on ionicback");
-  }
-}, 100);
-    
     
     
     
