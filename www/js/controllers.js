@@ -80,7 +80,7 @@ angular.module('Sparkle.controllers', [])
 
     
     $scope.showVideo = function() {
-    $scope.clipSrc = "https://www.youtube.com/v/=nv3hc3tlxfo";
+        $scope.clipSrc = "https://www.youtube.com/embed/LHaGDT6Pdbk";
         
 	$scope.showModal('templates/video-popover.html');
 }
