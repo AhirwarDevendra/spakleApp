@@ -1,0 +1,15 @@
+<ion-view view-title="Sparkle Media and Entertainment" id="AppViewTitle">
+    <ion-content>
+        <ion-list>
+            <ion-item class="item-remove-animate item-avatar item-icon-right chat-item" ng-repeat="event in events" type="item-text-wrap" href="#/event/{{event.id}}">
+            <img ng-src="{{event.face}}">
+            <h2>{{event.name}}</h2>
+            <p>{{event.punchLine}}</p>
+            <i class="icon ion-chevron-right icon-accessory"></i>
+
+            </ion-item>
+        </ion-list>
+
+
+    </ion-content>
+</ion-view>

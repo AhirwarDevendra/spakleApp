@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/Project/SparkleApp/www/lib/ionic/js/ionic.min.js",
+        "D:/Project/SparkleApp/www/lib/ionic/js/ionic.js",
+        "D:/Project/SparkleApp/www/lib/ionic/js/ionic.bundle.min.js",
+        "D:/Project/SparkleApp/www/js/app.js"
+    ]
+}
