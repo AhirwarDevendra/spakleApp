@@ -36,16 +36,7 @@ angular.module('Sparkle.controllers', [])
 }])
 
 .controller('EventController',['$scope','$location', '$anchorScroll','$timeout','$ionicModal','$ionicPlatform','$ionicHistory','$http','Videos','Images',function($scope,$location, $anchorScroll,$timeout,$ionicModal,$ionicPlatform,$ionicHistory,$http,Videos,Images){
-    
-    $http.get("php/xyz.php")
-    .success(function (response) 
-    {
-      //alert(response);
-        console.log("set");
-         
-      }
-    
-             );
+
     
     $scope.videos = Videos.all();
     console.log($scope.videos);
