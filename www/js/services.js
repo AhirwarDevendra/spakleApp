@@ -7,7 +7,7 @@ angular.module('Sparkle.services', [])
             id : 0,
             name : "Social Events",
             punchLine : "",
-            face : ""
+            face : "https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_wedding_Delhi.jpg"
         },
         {      
             id : 1,
