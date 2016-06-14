@@ -7,67 +7,67 @@ angular.module('Sparkle.services', [])
             id : 0,
             name : "Social Events",
             punchLine : "",
-            face : "https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_wedding_Delhi.jpg"
+            face : "https://cdn.munplanet.com/storage/uploads/52209627db7c13603b000001/topic/background_image/5315d1e6db7c1315050004c0/candid-event-photography.jpg"
         },
         {      
             id : 1,
             name : "Corparate Events",
             punchLine : "",
-            face : ""
+            face : "http://www.mace-events.org/images/corporate-big.jpg"
         },
         {      
             id : 2,
             name : "Wedding Events",
             punchLine : "",
-            face : ""
+            face : "https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_wedding_Delhi.jpg"
         },
         {      
             id : 3,
             name : "Game Show",
             punchLine : "",
-            face : ""
+            face : "http://ivegotasecretonline.com/wp-content/uploads/2011/10/gameshow-network.jpg"
         },
         {      
             id : 4,
             name : "Celebrity Event",
             punchLine : "",
-            face : ""
+            face : "http://www.creationevent.in/wp-content/uploads/photo-gallery/Celebrity%20Events1.jpg"
         },
         {      
             id : 5,
             name : "Auditorium Show",
             punchLine : "",
-            face : ""
+            face : "https://eighttofiveandinbetween.files.wordpress.com/2013/09/img_5867.jpeg"
         },
         {      
             id : 6,
             name : "Personal Celebration",
             punchLine : "",
-            face : ""
+            face : "http://www.ejthedj.com/wp/wp-content/themes/skeleton/images/mitzvah-entertainment.jpg"
         },
         {      
             id : 7,
             name : "Comedy Shows",
             punchLine : "",
-            face : ""
+            face : "http://www.comedianagency.com/wp-content/uploads/2015/06/comedy-show.jpg"
         },
         {      
             id : 8,
             name : "Motivational, Inspirational and Trainning Show",
             punchLine : "",
-            face : ""
+            face : "http://wbrc.images.worldnow.com/images/7188820_G.jpg"
         },
         {      
             id : 9,
             name : "Musical Night",
             punchLine : "",
-            face : ""
+            face : "http://25.media.tumblr.com/tumblr_m9jlr1lngt1rf6huqo1_1280.jpg"
         },
         {      
             id : 10,
             name : "Theme Party",
             punchLine : "",
-            face : ""
+            face : "http://www.excitingparty.com/images/720_Leage-of-cities-2006-_35_.jpg"
         }
     ];
     

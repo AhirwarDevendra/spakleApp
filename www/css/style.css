@@ -28,6 +28,7 @@
     animation: fadeInLeft 1s;
     
 }
+
 .video-item.ng-enter-stagger{
     -webkit-animation-delay:200ms;
   animation-delay:200ms;
@@ -83,7 +84,7 @@ centerme {
 }
 .ion-play:hover
 {
-    color:deepskyblue;
+    color:#ffa4f2;
 }
 .even-more-custom-icon {
     float: right;
@@ -109,7 +110,7 @@ centerme {
 .ion-nifty-modal-video {
   width: 100%;
   min-height: 0 !important;
-  height: 550px !important;
+  height: 380px !important;
   top: 15%;
   
   
